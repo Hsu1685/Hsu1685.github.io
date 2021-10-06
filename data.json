@@ -1,6 +1,6 @@
 {
     "powerOff": "ON",
-    "stopAllProcess": "OFF",
+    "stopFlow": "ON",
     "firstName": "John",
     "lastName": "Smith",
     "sex": "male",
